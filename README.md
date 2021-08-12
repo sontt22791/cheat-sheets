@@ -33,10 +33,15 @@ Cheat Sheets cho AI, Neural Networks, Machine Learning, Deep Learning và Big Da
 
 # BIGDATA
 ![](./images/bigdata1.jpeg)
+
 # ALGORITHM
 ![](./images/algo1.png)
 ![](./images/algo2.png)
 ![](./images/algo3.png)
 ![](./images/algo4.png)
+
+# MLOPS
+![](./images/aws.png)
+
 # OTHER
 ![](./images/ds5.png)
